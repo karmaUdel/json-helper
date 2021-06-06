@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "json-helper",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"files.autoSave": "afterDelay"
+	}
+}
